@@ -1,0 +1,66 @@
+*{ 
+  margin: 0px;
+  padding: 0px;
+  
+}
+.app-container{ 
+  display: flex;
+}
+.content{ 
+  width: 100%;
+}
+.sidebar{ 
+  min-height: 600px;
+}
+.myimage{ 
+  height: 50px;
+  width: 50px;
+  
+}
+.Note{ 
+  font-weight: 700;
+  margin: 50px;
+  justify-content: space-between;
+}
+.heading{ 
+  font-size: 50px;
+  margin-left: 6px;
+}
+.outline{ 
+  border: 2px solid black;
+  box-sizing: border-box;
+  background-color: brown;
+
+}
+.Container{ 
+  display: flexbox;
+  flex-wrap: wrap;
+}
+.Hello{ 
+  width: 600px;
+  height: 600px;
+  
+  
+}
+.Mello{ 
+  margin: 20px;
+  background-color: aquamarine;
+  justify-content: baseline;
+  display: flex;
+}
+.naughty{ 
+  font-weight: 500;
+  color: blue;
+  border: 2px solid gold;
+}
+
+.Heading{ 
+  text-align: center;
+  margin-top: 20px;
+  font-weight: 500;
+}
+.form{ 
+  margin: 20px;
+  padding: 5px;
+  text-align: center;
+}
